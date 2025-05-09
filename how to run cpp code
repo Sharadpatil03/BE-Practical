@@ -1,0 +1,3 @@
+how to run cpp code :
+g++ file_name.cpp -fopenmp
+./a.out
